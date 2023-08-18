@@ -26,5 +26,5 @@ $ pip install -r requrements.txt
 # Run the app
 $ python app.py
 
-# Go to the link in the terminal(http://127.0.0.1:5000/)
+# Go to the link in the terminal(http://127.0.0.1:5000/predictdata)
 ```
