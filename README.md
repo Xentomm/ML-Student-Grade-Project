@@ -1,4 +1,4 @@
-<h4 align="center">End to end machine learning project to predict math score using data gathered from students.</h4>
+<h2 align="center">End to end machine learning project to predict math score using data gathered from students.</h2>
 
 <p align="center">
   <a href="#key-points">Key Points</a> •
