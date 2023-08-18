@@ -10,7 +10,7 @@
 ## Key Points
 
 * Complete CI/CD Pipeline ready for deployement
-* Basic Flask setup that can be extended by adding CSS.
+* Basic Flask setup that can be extended by adding CSS
 * Multiple Regression models tested 
 
 ## How To Use
@@ -30,4 +30,3 @@ $ python app.py
 
 # Go to the link in the terminal(http://127.0.0.1:5000/)
 ```
-
