@@ -23,7 +23,7 @@ $ cd ML-Student-Grade-Project
 # Install dependencies(on venv)
 $ python -m venv venv
 $ source venv/bin/activate
-$ pip install -r requrements.txt
+$ pip install -r requirements.txt
 
 # Run model training
 $ python src/components/data_ingestion.py
