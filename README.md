@@ -21,6 +21,8 @@ $ git clone https://github.com/Xentomm/ML-Student-Grade-Project.git
 $ cd ML-Student-Grade-Project
 
 # Install dependencies(on venv)
+$ python -m venv venv
+$ source venv/bin/activate
 $ pip install -r requrements.txt
 
 # Run model training
