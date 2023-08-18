@@ -15,7 +15,7 @@
 
 ```bash
 # Clone this repository
-$ git clone [https://github.com/Xentomm/ML-Student-Grade-Project.git]
+$ git clone https://github.com/Xentomm/ML-Student-Grade-Project.git
 
 # Go into the repository
 $ cd ML-Student-Grade-Project
