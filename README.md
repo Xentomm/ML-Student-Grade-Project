@@ -20,11 +20,15 @@ $ git clone https://github.com/Xentomm/ML-Student-Grade-Project.git
 # Go into the repository
 $ cd ML-Student-Grade-Project
 
-# Install dependencies
+# Install dependencies(on venv etc.)
 $ pip install -r requrements.txt
 
+# Run model training
+$ python src/components/data_ingestion.py
+# if No directory or file -> change 'notebook/data/stud.csv'(for linux) to 'notebook\data\stud.csv'(for windows) in the data_ingestion.py file
+
 # Run the app
-$ python app.py
+$ python application.py
 
 # Go to the link in the terminal(http://127.0.0.1:5000/predictdata)
 ```
