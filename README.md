@@ -1,5 +1,3 @@
-### Complete CI/CD pipeline ready for deployment
-
 <h4 align="center">End to end machine learning project to predict math score using data gathered from students.</h4>
 
 <p align="center">
